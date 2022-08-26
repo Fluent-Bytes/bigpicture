@@ -3,7 +3,9 @@
 ![Tailwind Traders Website](Documents/Images/Website.png)
 now with branch protection on main!
 
-#NEW LINE CREATED AFTER ENABLING BRANCH PROTECTION RULE
+# NEW LINE CREATED AFTER ENABLING BRANCH PROTECTION RULE
+
+# Adding an issue after we work on that while committing change.
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
 
